@@ -71,7 +71,7 @@
             "value": "ssarwa"
         },
         "adminPassword": {
-            "value": null
+            "value": "Azure1234!@#$"
         },
         "diagnosticsStorageAccountName": {
             "value": "testapidiag722"
